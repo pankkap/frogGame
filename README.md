@@ -1,2 +1,1 @@
-# frogGame
-This is a game created in JavaScript Language
+game using P5 Library
